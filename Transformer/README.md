@@ -27,4 +27,4 @@
 
 **Training Summary**
 
-> Training the model for four epochs required approximately 8 hours with GPUx2, and debugging/fixing implementation issues took an additional 20 hours.  
+> Training the model for four epochs required approximately 8 hours with GPUx2, and debugging/fixing implementation issues took an additional 20 hours. The model was improving but was not able to wait for another 8 hours to get better results 
